@@ -12,3 +12,4 @@ class Rend extends React.Component{
     }
 }
 export default Rend;
+/* hari's comment */
